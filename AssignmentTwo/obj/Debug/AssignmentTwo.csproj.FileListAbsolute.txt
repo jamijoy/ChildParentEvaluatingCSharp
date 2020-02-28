@@ -4,3 +4,9 @@ F:\AIUB\Semester Data\Semester Data 10\ADVANCED PROGRAMMING WITH .NET [A]\Coding
 F:\AIUB\Semester Data\Semester Data 10\ADVANCED PROGRAMMING WITH .NET [A]\Codings\DigitalDiaryReprised\AssignmentTwoSln\AssignmentTwo\obj\Debug\AssignmentTwo.csprojResolveAssemblyReference.cache
 F:\AIUB\Semester Data\Semester Data 10\ADVANCED PROGRAMMING WITH .NET [A]\Codings\DigitalDiaryReprised\AssignmentTwoSln\AssignmentTwo\obj\Debug\AssignmentTwo.exe
 F:\AIUB\Semester Data\Semester Data 10\ADVANCED PROGRAMMING WITH .NET [A]\Codings\DigitalDiaryReprised\AssignmentTwoSln\AssignmentTwo\obj\Debug\AssignmentTwo.pdb
+F:\AIUB\Semester Data\Semester Data 07\OBJECT ORIENTED PROGRAMMING 2 [G]\My Codings\Prottasha\AssignmentTwoSln\AssignmentTwo\bin\Debug\AssignmentTwo.exe.config
+F:\AIUB\Semester Data\Semester Data 07\OBJECT ORIENTED PROGRAMMING 2 [G]\My Codings\Prottasha\AssignmentTwoSln\AssignmentTwo\obj\Debug\AssignmentTwo.exe
+F:\AIUB\Semester Data\Semester Data 07\OBJECT ORIENTED PROGRAMMING 2 [G]\My Codings\Prottasha\AssignmentTwoSln\AssignmentTwo\obj\Debug\AssignmentTwo.pdb
+F:\AIUB\Semester Data\Semester Data 07\OBJECT ORIENTED PROGRAMMING 2 [G]\My Codings\Prottasha\AssignmentTwoSln\AssignmentTwo\bin\Debug\AssignmentTwo.exe
+F:\AIUB\Semester Data\Semester Data 07\OBJECT ORIENTED PROGRAMMING 2 [G]\My Codings\Prottasha\AssignmentTwoSln\AssignmentTwo\bin\Debug\AssignmentTwo.pdb
+F:\AIUB\Semester Data\Semester Data 07\OBJECT ORIENTED PROGRAMMING 2 [G]\My Codings\Prottasha\AssignmentTwoSln\AssignmentTwo\obj\Debug\AssignmentTwo.csprojResolveAssemblyReference.cache

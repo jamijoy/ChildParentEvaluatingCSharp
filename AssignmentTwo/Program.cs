@@ -71,6 +71,30 @@ namespace AssignmentTwo
             st.setFullName("Himi");
             st.setCreditComplete(30);
             Console.WriteLine("Student Class Name and Age Returning : " + st.getFullName() + " >> " + st.getAge());
+
+            Console.WriteLine("-------------------------- Company A -----------------------------");
+            Console.WriteLine("\n Triangle Information : ");
+            Console.Write("Base : ");
+            int triangleBase = Int32.Parse(Console.ReadLine());
+            Console.Write("Height : ");
+            int triangleHeight = Int32.Parse(Console.ReadLine());
+            Console.WriteLine("\n Rectangle Information : ");
+            Console.Write("Length : ");
+            int rectangleLength = Int32.Parse(Console.ReadLine());
+            Console.Write("Breadth : ");
+            int rectangleBreadth = Int32.Parse(Console.ReadLine());
+            Console.WriteLine("\n Circle Information : ");
+            Console.Write("Radius : ");
+            int circleRadius = Int32.Parse(Console.ReadLine());
+
+            CompanyA data = new CompanyA(triangleBase,triangleHeight,rectangleBreadth,rectangleLength,circleRadius);
+
+            //Area Calculation Zone
+
+            Triangle tr = new Triangle(triangleBase, triangleHeight, rectangleBreadth, rectangleLength, circleRadius);
+            Rectangle r = new Rectangle(triangleBase, triangleHeight, rectangleBreadth, rectangleLength, circleRadius);
+            Circle cir  = new Circle(triangleBase, triangleHeight, rectangleBreadth, rectangleLength, circleRadius);
+           
         }
     }
 }
